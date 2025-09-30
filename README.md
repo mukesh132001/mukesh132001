@@ -9,8 +9,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukeshEthiraj&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshEthiraj&layout=compact&theme=radical)  
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukesh132001&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh132001&layout=compact&theme=radical)  
 
 ---
 
