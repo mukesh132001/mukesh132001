@@ -15,7 +15,9 @@
 ---
 
 ## 🛠 Tech Stack  
-- **Languages & Tools**: SQL | Python | R | Excel | Power BI | Tableau | Pandas | Spark | Databricks | Git  
-- **Specialties**: Data Cleaning | ETL | Dashboarding | Predictive Modeling | Business Analytics | A/B Testing  
-
----
+- 🐍 **Python** | 🐼 **Pandas** | 📊 **NumPy**  
+- 🗄️ **SQL** | 🐘 **PostgreSQL** | 🐬 **MySQL**  
+- 📊 **Power BI** | 📈 **Tableau** | 📑 **Excel**  
+- ⚡ **PySpark** | ☁️ **Databricks**  
+- 🐳 **Docker** | 🖥️ **Git/GitHub**  
+- 🤖 **Machine Learning** | 📉 **Data Visualization** | 🔍 **ETL Pipelines**  
