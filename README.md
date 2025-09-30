@@ -21,3 +21,13 @@
 - ⚡ **PySpark** | ☁️ **Databricks**  
 - 🐳 **Docker** | 🖥️ **Git/GitHub**  
 - 🤖 **Machine Learning** | 📉 **Data Visualization** | 🔍 **ETL Pipelines**  
+
+---
+
+## 📈 Contribution Activity  
+![Mukesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MukeshEthiraj&theme=react-dark)  
+
+---
+
+## 🌐 Connect with Me  
+📫 [LinkedIn](https://www.linkedin.com/in/mukeshethiraj)
