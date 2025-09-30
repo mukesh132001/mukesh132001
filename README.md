@@ -1,16 +1,5 @@
-# 👋 Hi, I'm Mukesh!  
-
-🔹 Graduate Student @ NYU | Data Analyst & Business Intelligence Enthusiast  
-🔹 Experienced in SQL, Python, Power BI, Tableau, Spark & Databricks  
-🔹 Passionate about data storytelling, dashboards & predictive modeling  
-🔹 Exploring opportunities in Analytics, BI, and Data Science  
-🔹 Always curious. Always building something new 🚀  
-
----
-
-## 📊 GitHub Stats  
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukesh132001&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh132001&layout=compact&theme=radical)  
+👋 Hi, I'm Mukesh!  
+I’m a student at NYU passionate about transforming messy data into meaningful stories through analytics and visualization. I enjoy working with SQL, Python, Power BI, and Spark, and I’m always experimenting with new tools to make data more insightful. When I’m not deep in dashboards, I’m probably still arguing with Excel—sometimes my best friend, sometimes my worst enemy.   
 
 ---
 
