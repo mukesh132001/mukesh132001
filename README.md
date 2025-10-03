@@ -1,5 +1,5 @@
 👋 Hi, I'm Mukesh!  
-I’m a student at NYU passionate about transforming messy data into meaningful stories through analytics and visualization. I enjoy working with SQL, Python, Power BI, and Spark, and I’m always experimenting with new tools to make data more insightful. When I’m not deep in dashboards, I’m probably still arguing with Excel—sometimes my best friend, sometimes my worst enemy.   
+I’m a student at NYU passionate about transforming messy data into meaningful stories through analytics and visualization. I enjoy working with SQL, Python, Power BI, and Spark, and I’m always experimenting with new tools to make data more insightful.
 
 ---
 ## 📊 GitHub Stats  
