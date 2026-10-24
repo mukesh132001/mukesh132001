@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<style>
+@keyframes pp{0%{transform:scale(1);opacity:.9}100%{transform:scale(2.6);opacity:0}}.pl{transform-box:fill-box;transform-origin:center;animation:pp 1.8s ease-out infinite}.tl{stroke-dasharray:1000;stroke-dashoffset:1000;animation:d 2s ease-out forwards}@keyframes d{to{stroke-dashoffset:0}}
+.pt{opacity:0;animation:in .5s ease-out forwards}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+<defs><linearGradient id="tg" gradientUnits="userSpaceOnUse" x1="130" y1="0" x2="1070" y2="0"><stop offset="0" stop-color="#8b96a5"/><stop offset=".5" stop-color="#5ec8ff"/><stop offset="1" stop-color="#3ddc97"/></linearGradient></defs>
+<rect x=".5" y=".5" width="1199" height="229" rx="18" fill="#0b0f14" stroke="#232b36"/>
+<text x="40" y="36" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#4b5563">TRAJECTORY</text>
+<line x1="130" y1="100" x2="1070" y2="100" stroke="url(#tg)" stroke-width="2"/>
+<circle cx="1070" cy="100" r="7" fill="none" stroke="#3ddc97" class="pl"/>
+<g>
+<circle cx="130" cy="100" r="7" fill="#0b0f14" stroke="#8b96a5" stroke-width="2.5"/>
+<text x="130" y="70" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#8b96a5">2022</text>
+<text x="130" y="138" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#e6edf3">GBS Systems</text>
+<text x="130" y="160" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8b96a5">Data Analyst</text>
+<text x="130" y="182" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#4b5563">Power BI · Azure SQL · ETL</text></g><g>
+<circle cx="365" cy="100" r="7" fill="#0b0f14" stroke="#4b5563" stroke-width="2.5"/>
+<text x="365" y="70" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#4b5563">2023</text>
+<text x="365" y="138" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#e6edf3">Anna University</text>
+<text x="365" y="160" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8b96a5">B.E. Computer Science</text>
+<text x="365" y="182" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#4b5563">foundations</text></g><g>
+<circle cx="600" cy="100" r="7" fill="#0b0f14" stroke="#5ec8ff" stroke-width="2.5"/>
+<text x="600" y="70" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#5ec8ff">2024</text>
+<text x="600" y="138" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#e6edf3">Wizcom Corp.</text>
+<text x="600" y="160" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8b96a5">Analytics Intern</text>
+<text x="600" y="182" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#4b5563">Snowflake · Tableau · 20s → 4s</text></g><g>
+<circle cx="835" cy="100" r="7" fill="#0b0f14" stroke="#a78bfa" stroke-width="2.5"/>
+<text x="835" y="70" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#a78bfa">2025</text>
+<text x="835" y="138" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#e6edf3">NYU</text>
+<text x="835" y="160" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8b96a5">M.S. CompE &amp; Finance</text>
+<text x="835" y="182" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#4b5563">graduate merit scholarship</text></g><g>
+<circle cx="1070" cy="100" r="7" fill="#0b0f14" stroke="#3ddc97" stroke-width="2.5"/>
+<text x="1070" y="70" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#3ddc97">2026</text>
+<text x="1070" y="138" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#e6edf3">Sonesta Hotels</text>
+<text x="1070" y="160" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8b96a5">Operational Data Analyst</text>
+<text x="1070" y="182" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#4b5563">30+ properties · RevPAR · ADR</text></g>
+</svg>

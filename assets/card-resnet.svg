@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="260" viewBox="0 0 580 260">
+<style>.sp{stroke-dasharray:400;stroke-dashoffset:400;animation:d 2s .2s ease-out forwards}@keyframes d{to{stroke-dashoffset:0}}</style>
+<defs><linearGradient id="gl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5ec8ff" stop-opacity=".10"/><stop offset=".5" stop-color="#5ec8ff" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="579" height="259" rx="16" fill="#0f141b" stroke="#232b36"/>
+<rect x=".5" y=".5" width="579" height="259" rx="16" fill="url(#gl)"/>
+<rect x="0" y="28" width="3" height="56" fill="#5ec8ff"/>
+<text x="32" y="44" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2.5" fill="#5ec8ff">DEEP LEARNING</text>
+
+<text x="32" y="80" font-family="Georgia,'Times New Roman',serif" font-size="28" fill="#e6edf3">Mini-ResNet</text>
+<polyline points="370.0,99.6 378.0,95.7 386.0,94.1 394.0,88.7 402.0,86.8 410.0,83.8 418.0,85.5 426.0,81.8 434.0,82.9 442.0,84.7 450.0,85.3 458.0,83.2 466.0,78.6 474.0,81.4 482.0,75.1 490.0,74.0 498.0,74.4 506.0,75.6 514.0,70.7 522.0,69.7 530.0,72.7 538.0,75.8 546.0,69.9 554.0,73.6" fill="none" stroke="#5ec8ff" stroke-opacity=".35" stroke-width="1.5"/>
+<text x="548" y="122" text-anchor="end" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="600" fill="#5ec8ff">92.1%</text>
+<text x="548" y="142" text-anchor="end" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#4b5563">test accuracy</text>
+<text x="32" y="140" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b96a5">A 4.9M-param ResNet for CIFAR-10 under a</text><text x="32" y="162" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b96a5">5M budget, tuned through ablations on</text><text x="32" y="184" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b96a5">schedulers, dropout and augmentation.</text>
+<rect x="32" y="206" width="67" height="26" rx="6" fill="#151c25" stroke="#232b36"/><text x="66" y="223" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b96a5">PyTorch</text><rect x="107.19999999999999" y="206" width="75" height="26" rx="6" fill="#151c25" stroke="#232b36"/><text x="145" y="223" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b96a5">CIFAR-10</text>
+</svg>

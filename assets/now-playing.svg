@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<style>
+.eq{transform-box:fill-box;transform-origin:bottom;animation:eq 1s ease-in-out infinite alternate}
+@keyframes eq{0%{transform:scaleY(.15)}100%{transform:scaleY(1)}}
+.row{opacity:0;animation:in .5s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+</style>
+<rect x=".5" y=".5" width="1199" height="249" rx="18" fill="#0b0f14" stroke="#232b36"/>
+<text x="70" y="48" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#3ddc97">● NOW PLAYING</text>
+<rect x="70" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.00s;animation-duration:0.70s"/><rect x="82" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.13s;animation-duration:0.82s"/><rect x="94" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.26s;animation-duration:0.94s"/><rect x="106" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.39s;animation-duration:1.06s"/><rect x="118" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.52s;animation-duration:1.18s"/><rect x="130" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.65s;animation-duration:0.70s"/><rect x="142" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.78s;animation-duration:0.82s"/><rect x="154" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.91s;animation-duration:0.94s"/><rect x="166" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-1.04s;animation-duration:1.06s"/><rect x="178" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.07s;animation-duration:1.18s"/><rect x="190" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.20s;animation-duration:0.70s"/><rect x="202" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.33s;animation-duration:0.82s"/><rect x="214" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.46s;animation-duration:0.94s"/><rect x="226" y="70" width="7" height="90" rx="2" fill="#3ddc97" class="eq" style="animation-delay:-0.59s;animation-duration:1.06s"/>
+<text x="70" y="196" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="20" fill="#e6edf3">the workbench</text>
+<text x="70" y="218" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#4b5563">side A · fall 2026</text>
+<g class="row" style="animation-delay:0.20s">
+<text x="330" y="66" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4b5563">01</text>
+<circle cx="366" cy="61" r="4" fill="#3ddc97"/>
+<text x="382" y="66" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#e6edf3">engine</text>
+<text x="600" y="66" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b96a5">VO2-max coach · adaptive 12-week periodization</text>
+<line x1="330" y1="82" x2="1140" y2="82" stroke="#232b36"/>
+</g><g class="row" style="animation-delay:0.38s">
+<text x="330" y="108" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4b5563">02</text>
+<circle cx="366" cy="103" r="4" fill="#ffb547"/>
+<text x="382" y="108" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#e6edf3">pixel-daily-log</text>
+<text x="600" y="108" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b96a5">GitHub + Strava activity → 8-bit dioramas</text>
+<line x1="330" y1="124" x2="1140" y2="124" stroke="#232b36"/>
+</g><g class="row" style="animation-delay:0.56s">
+<text x="330" y="150" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4b5563">03</text>
+<circle cx="366" cy="145" r="4" fill="#5ec8ff"/>
+<text x="382" y="150" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#e6edf3">portfolio</text>
+<text x="600" y="150" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b96a5">tempo fader + 16-step Web Audio drum machine</text>
+<line x1="330" y1="166" x2="1140" y2="166" stroke="#232b36"/>
+</g><g class="row" style="animation-delay:0.74s">
+<text x="330" y="192" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4b5563">04</text>
+<circle cx="366" cy="187" r="4" fill="#a78bfa"/>
+<text x="382" y="192" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#e6edf3">mcp × garmin</text>
+<text x="600" y="192" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b96a5">piping personal telemetry into LLM agents</text>
+<line x1="330" y1="208" x2="1140" y2="208" stroke="#232b36"/>
+</g>
+</svg>
